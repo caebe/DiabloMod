@@ -5,5 +5,5 @@
 
 **Place sound in following directory**
 
-C:\Program Files (x86)\World of Warcraft\_classic_\Interface\DiabloMod\vakanjag.mp3
-C:\Program Files (x86)\World of Warcraft\_classic_\Interface\DiabloMod\quest.mp3
+>C:\Program Files (x86)\World of Warcraft\_classic_\Interface\DiabloMod\vakanjag.mp3
+>C:\Program Files (x86)\World of Warcraft\_classic_\Interface\DiabloMod\quest.mp3
